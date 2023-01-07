@@ -1,0 +1,16 @@
+body{
+  /* this is how you write a comment in CSS */
+  background-color: rgba(129, 2, 0, 0.75);
+  font-family: roboto, arial; 
+  padding-left: 96px;
+  padding-right: 24px;
+  padding-top: 80px;
+  margin: 0px;
+  margin-bottom: 3000px;
+}
+
+p{
+  color: #f79c06; 
+  margin-top: 0; 
+  margin-bottom: 0;
+}
